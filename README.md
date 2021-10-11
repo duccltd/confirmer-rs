@@ -1,2 +1,3 @@
+# WIP
 # confirmer-rs
-A command-line utility for confirmation steps
+A Terraform inspired command-line utility for confirmation steps
